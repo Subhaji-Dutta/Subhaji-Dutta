@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhaji-dutta" alt="subhaji-dutta" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://subhaji-dutta.github.io/my_wesite/](https://subhaji-dutta.github.io/my_wesite/)
+- 👨‍💻 All of my projects are available at [[https://subhaji-dutta.github.io/my_wesite/](https://subhajit-dutta.vercel.app/)]
 
 - 💬 Ask me about **react,HTML,JS**
 
